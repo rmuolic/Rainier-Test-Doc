@@ -1,4 +1,4 @@
 - name: Chapter 3 - Topic 1
-	topicHref: Chapter3_Topic1.md
+  href: Chapter3_Topic1.md
 - name: Chapter 3 - Topic 2
-	topicHref: Chapter3_Topic2.md
+  href: Chapter3_Topic2.md

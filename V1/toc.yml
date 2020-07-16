@@ -1,9 +1,9 @@
 - name: Overview
   href: Overview.md
 - name: Chapter 1
-  topicHref: Chapter1/Chapter1_Topic1.md
+  href: Chapter1/Chapter1_Topic1.md
 - name: Chapter 2
-	topicHref: Chapter2/Chapter2_Topic1.md
+  href: Chapter2/Chapter2_Topic1.md
 - name: Chapter 3
-	href: Chapter3/toc.yml
-	topicHref: Chapter3/Chapter3_ChapterOverview.md
+  href: Chapter3/toc.yml
+  topicHref: Chapter3/Chapter3_ChapterOverview.md
