@@ -539,7 +539,7 @@ body .toc{
 .toc-toggle {
   display: none;
   margin: 0 15px 0px 15px;
-}
+/*}
 .sidefilter {
   position: fixed;
   top: 90px;
@@ -549,7 +549,7 @@ body .toc{
   border-left: 1px solid #e7e7e7;
   border-right: 1px solid #e7e7e7;
   z-index: 1;
-/*}
+}
 .toc-filter {
   border-radius: 5px;
   background: #fff;
