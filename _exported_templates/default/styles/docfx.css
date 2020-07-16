@@ -539,7 +539,7 @@ body .toc{
 .toc-toggle {
   display: none;
   margin: 0 15px 0px 15px;
-}
+/*}
 .sidefilter {
   position: fixed;
   top: 90px;
@@ -548,7 +548,7 @@ body .toc{
   padding: 15px;
   border-left: 1px solid #e7e7e7;
   border-right: 1px solid #e7e7e7;
-  z-index: 1;
+  z-index: 1;*/
 }
 .toc-filter {
   border-radius: 5px;
@@ -762,12 +762,12 @@ footer {
     margin-left: -15px;
     margin-right: -15px;
   }
-  .sidefilter {
+  /*.sidefilter {
     position: static;
     width: auto;
     float: none;
     border: none;
-  }
+  }*/
   .sidetoc {
     position: static;
     width: auto;
